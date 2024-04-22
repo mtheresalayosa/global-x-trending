@@ -1,0 +1,462 @@
+{
+    "trends": {
+      "0": {
+        "name": "SenderLabs",
+        "query": "SenderLabs",
+        "url": "search?q=%22SenderLabs%22",
+        "volume": 3340000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "1": {
+        "name": "Trump",
+        "query": "Trump",
+        "url": "search?q=%22Trump%22",
+        "volume": 2160000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "2": {
+        "name": "Taylor",
+        "query": "Taylor",
+        "url": "search?q=%22Taylor%22",
+        "volume": 2140000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "3": {
+        "name": "Iran",
+        "query": "Iran",
+        "url": "search?q=%22Iran%22",
+        "volume": 1240000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "4": {
+        "name": "#TSTTPD",
+        "query": "%23TSTTPD",
+        "url": "search?q=%22%23TSTTPD%22",
+        "volume": 858000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "5": {
+        "name": "Taylor Swift",
+        "query": "Taylor+Swift",
+        "url": "search?q=%22Taylor+Swift%22",
+        "volume": 769000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "6": {
+        "name": "#TENatSaintLaurentSG",
+        "query": "%23TENatSaintLaurentSG",
+        "url": "search?q=%22%23TENatSaintLaurentSG%22",
+        "volume": 717000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "7": {
+        "name": "Madrid",
+        "query": "Madrid",
+        "url": "search?q=%22Madrid%22",
+        "volume": 700000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "8": {
+        "name": "The Tortured Poets Department",
+        "query": "The+Tortured+Poets+Department",
+        "url": "search?q=%22The+Tortured+Poets+Department%22",
+        "volume": 682000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "9": {
+        "name": "América",
+        "query": "Am%C3%A9rica",
+        "url": "search?q=%22Am%C3%A9rica%22",
+        "volume": 620000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "10": {
+        "name": "Ukraine",
+        "query": "Ukraine",
+        "url": "search?q=%22Ukraine%22",
+        "volume": 599000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "11": {
+        "name": "Real Madrid",
+        "query": "Real+Madrid",
+        "url": "search?q=%22Real+Madrid%22",
+        "volume": 419000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "12": {
+        "name": "Explore",
+        "query": "Explore",
+        "url": "search?q=%22Explore%22",
+        "volume": 410000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "13": {
+        "name": "محمد",
+        "query": "%D9%85%D8%AD%D9%85%D8%AF",
+        "url": "search?q=%22%D9%85%D8%AD%D9%85%D8%AF%22",
+        "volume": 375000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "14": {
+        "name": "Russia",
+        "query": "Russia",
+        "url": "search?q=%22Russia%22",
+        "volume": 359000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "15": {
+        "name": "Hamas",
+        "query": "Hamas",
+        "url": "search?q=%22Hamas%22",
+        "volume": 335000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "16": {
+        "name": "ايران",
+        "query": "%D8%A7%D9%8A%D8%B1%D8%A7%D9%86",
+        "url": "search?q=%22%D8%A7%D9%8A%D8%B1%D8%A7%D9%86%22",
+        "volume": 329000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "17": {
+        "name": "London",
+        "query": "London",
+        "url": "search?q=%22London%22",
+        "volume": 315000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "18": {
+        "name": "Petro",
+        "query": "Petro",
+        "url": "search?q=%22Petro%22",
+        "volume": 310000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "19": {
+        "name": "اسرائيل",
+        "query": "%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84",
+        "url": "search?q=%22%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%22",
+        "volume": 298000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "20": {
+        "name": "الهلال",
+        "query": "%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84",
+        "url": "search?q=%22%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84%22",
+        "volume": 266000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "21": {
+        "name": "الرياض",
+        "query": "%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6",
+        "url": "search?q=%22%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%22",
+        "volume": 260000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "22": {
+        "name": "Elon",
+        "query": "Elon",
+        "url": "search?q=%22Elon%22",
+        "volume": 254000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "23": {
+        "name": "David",
+        "query": "David",
+        "url": "search?q=%22David%22",
+        "volume": 252000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "24": {
+        "name": "So Long",
+        "query": "So+Long",
+        "url": "search?q=%22So+Long%22",
+        "volume": 251000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "25": {
+        "name": "#JUVBecSummerLover",
+        "query": "%23JUVBecSummerLover",
+        "url": "search?q=%22%23JUVBecSummerLover%22",
+        "volume": 244000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "26": {
+        "name": "BECKY X JUV FAMILY",
+        "query": "BECKY+X+JUV+FAMILY",
+        "url": "search?q=%22BECKY+X+JUV+FAMILY%22",
+        "volume": 243000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "27": {
+        "name": "Senadores",
+        "query": "Senadores",
+        "url": "search?q=%22Senadores%22",
+        "volume": 242000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "28": {
+        "name": "Arsenal",
+        "query": "Arsenal",
+        "url": "search?q=%22Arsenal%22",
+        "volume": 216000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "29": {
+        "name": "#LokSabhaElections2024",
+        "query": "%23LokSabhaElections2024",
+        "url": "search?q=%22%23LokSabhaElections2024%22",
+        "volume": 214000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "30": {
+        "name": "Martinez",
+        "query": "Martinez",
+        "url": "search?q=%22Martinez%22",
+        "volume": 213000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "31": {
+        "name": "Link in Bio",
+        "query": "Link+in+Bio",
+        "url": "search?q=%22Link+in+Bio%22",
+        "volume": 206000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "32": {
+        "name": "علي محمد",
+        "query": "%D8%B9%D9%84%D9%8A+%D9%85%D8%AD%D9%85%D8%AF",
+        "url": "search?q=%22%D8%B9%D9%84%D9%8A+%D9%85%D8%AD%D9%85%D8%AF%22",
+        "volume": 201000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "33": {
+        "name": "Isfahan",
+        "query": "Isfahan",
+        "url": "search?q=%22Isfahan%22",
+        "volume": 191000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "34": {
+        "name": "Florida",
+        "query": "Florida",
+        "url": "search?q=%22Florida%22",
+        "volume": 181000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "35": {
+        "name": "Degen Wallet",
+        "query": "Degen+Wallet",
+        "url": "search?q=%22Degen+Wallet%22",
+        "volume": 163000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "36": {
+        "name": "Peter",
+        "query": "Peter",
+        "url": "search?q=%22Peter%22",
+        "volume": 160000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "37": {
+        "name": "Elon Musk",
+        "query": "Elon+Musk",
+        "url": "search?q=%22Elon+Musk%22",
+        "volume": 158000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "38": {
+        "name": "فلسطين",
+        "query": "%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86",
+        "url": "search?q=%22%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%22",
+        "volume": 146000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "39": {
+        "name": "#FTCUSleezeMix",
+        "query": "%23FTCUSleezeMix",
+        "url": "search?q=%22%23FTCUSleezeMix%22",
+        "volume": 136000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "40": {
+        "name": "DOUBLE ALBUM",
+        "query": "DOUBLE+ALBUM",
+        "url": "search?q=%22DOUBLE+ALBUM%22",
+        "volume": 127000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "41": {
+        "name": "on ICE",
+        "query": "on+ICE",
+        "url": "search?q=%22on+ICE%22",
+        "volume": 123000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "42": {
+        "name": "Jones",
+        "query": "Jones",
+        "url": "search?q=%22Jones%22",
+        "volume": 117000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "43": {
+        "name": "Lille",
+        "query": "Lille",
+        "url": "search?q=%22Lille%22",
+        "volume": 114000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "44": {
+        "name": "#Web3",
+        "query": "%23Web3",
+        "url": "search?q=%22%23Web3%22",
+        "volume": 112000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "45": {
+        "name": "#deprem",
+        "query": "%23deprem",
+        "url": "search?q=%22%23deprem%22",
+        "volume": 111000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "46": {
+        "name": "Miguel",
+        "query": "Miguel",
+        "url": "search?q=%22Miguel%22",
+        "volume": 110000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "47": {
+        "name": "Ukrainian",
+        "query": "Ukrainian",
+        "url": "search?q=%22Ukrainian%22",
+        "volume": 108000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "48": {
+        "name": "Tunde",
+        "query": "Tunde",
+        "url": "search?q=%22Tunde%22",
+        "volume": 107000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      },
+      "49": {
+        "name": "Down Bad",
+        "query": "Down+Bad",
+        "url": "search?q=%22Down+Bad%22",
+        "volume": 105000,
+        "volumeShort": "",
+        "domainContext": "",
+        "groupedTrends": []
+      }
+    },
+    "location": {
+      "name": "Worldwide",
+      "woeid": 1
+    },
+    "created": {
+      "created_at": 1713520871,
+      "created_at_v1": "2024-04-19T10:01:11Z"
+    }
+  }

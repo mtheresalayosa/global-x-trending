@@ -1,0 +1,42 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#container {
+    margin: 10px 30px;
+}
+    #top-10-trends, .globe-box {
+        display: inline-block;
+        vertical-align: top;
+    }
+    .globe-box {
+        border: 1px solid hotpink;
+        width: 800px;
+        background-color: black;
+    }
+        .globe-box label {
+            color: white;
+            margin-bottom: 10px;
+            text-align: right;
+        }
+    #top-10-trends {
+        width: 30%;
+        margin-left: 10px;
+    }
+    .trending-details {
+        width: 100%;
+        margin-top: 40px;
+    }
+        .form-search {
+            width: 870px;
+        }
+        .details-box {
+            margin-top: 20px;
+            width: 900px;
+        }
+            .d_info {
+                display: inline-block;
+                vertical-align: top;
+                width: 250px;
+            }
